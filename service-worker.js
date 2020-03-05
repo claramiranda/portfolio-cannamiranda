@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/portfolio-cannamiranda/precache-manifest.a00362f010036ed3fd7483e53af0c9ad.js"
+  "/portfolio-cannamiranda/precache-manifest.19ee15261b3061ec191fb03ad76425e8.js"
 );
 
 self.addEventListener('message', (event) => {
